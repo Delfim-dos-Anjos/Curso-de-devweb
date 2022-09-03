@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/**#### Menu ####**/
+.menu a {
+    color: #aaa;
+    align-items: center;
+    width: 25%;
+}
+
+/**#### Produtos ####**/
+
+
+/**#### Rodapé ####**/
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+}
+
+#formas-pagamento{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#3af ;
+}
